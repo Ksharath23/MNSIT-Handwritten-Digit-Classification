@@ -11,3 +11,7 @@ numpy, pandas, matplotlib, scikit-learn, tensorflow
 
 ## ML Algorithms Used
 • Logistic Regression
+• Support Vector Machine
+• K Nearest Neighbours
+• Random Forest
+• Convolutional Neural Network
